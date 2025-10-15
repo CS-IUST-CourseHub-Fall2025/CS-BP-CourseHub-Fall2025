@@ -1,10 +1,12 @@
-# CS-BP-Tasks-Fall2025
-**Central hub for the Basic Programming (Python) - Task Team at IUST**
+# CS-BP-CourseHub-Fall2025
+**Central hub for the Basic Programming (Python) - TA Team at IUST**
 
-Welcome to the central repository for the Basic Programming course at IUST. This repository stores all programming assignments, exercises, and related resources of the Basic Programming (Python) course. It serves as the main storage for task statements, test cases, sample solutions, QA reports, and grading tools — enabling transparent collaboration between TAs, instructors, and automation systems.
+Welcome to the central repository for the Basic Programming course at IUST. This repository stores all programming assignments, exercises, and teaching resources of the Basic Programming (Python) course. It serves as the main storage for task statements, test cases, sample solutions, lectures — enabling transparent collaboration between TAs, instructors, and automation systems.
 
 ## 📁 Repository Structure
 **Tasks/** → Weekly tasks (problem statements, test cases, and solutions)
+
+**Teaching/** → Teaching team materials (lecture slides, lab codes, guides)
 
 **Docs/** → Templates, examples, and reference materials
 
@@ -15,6 +17,7 @@ Welcome to the central repository for the Basic Programming course at IUST. This
 ## 🔧 Contribution Guidelines
 
 To ensure a smooth workflow and maintain a clean repository, please follow these rules:
+### **For Task Designers**
 
 ### 1️⃣ Branches
 - Each TA must work in their **own branch**.
@@ -37,7 +40,13 @@ To ensure a smooth workflow and maintain a clean repository, please follow these
 ### 6️⃣ QA Feedback
 - QA Reviewer may request changes. Please address feedback promptly.
 - After modification, update your PR with the revised files.
+
+### For Teaching Team
+- Store materials under `/Teaching/` folder.
+- Use clear filenames (e.g., `Lecture01_Variables.pdf`).
+
+
 ## 💬 Contact
 
 For any questions or issues:
-- Contact Task Team Head TA via Telegram: @negar636R
+- Contact Task Team Lead TA via Telegram: @negar636R

@@ -2,7 +2,7 @@
 
 **Course:** Fundamentals of Programming  
 **Instructor:** Dr.elahi
-**Teaching Assistants:** [**CONTRIBUTORS**](./CONTRIBUTORS.mb)
+**Teaching Assistants:** [**CONTRIBUTORS**]([./CONTRIBUTORS.mb](https://github.com/CS-IUST-CourseHub-Fall2025/CS-BP-CourseHub-Fall2025/blob/main/CONTRIBUTORS.md))
 **Semester:** Fall 2025  
 
 ---

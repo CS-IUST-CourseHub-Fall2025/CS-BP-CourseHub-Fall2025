@@ -5,30 +5,21 @@ if (len(after) != len(before)):
     print("IMPOSSIBLE")
     exit()
 
-forward_first_position = None
-backward_first_position = None
-forward_second_position = None
-backward_second_position = None
+f1 = before.find('>')
+b1 = before.find('<')
+f2 = after.find('>')
+b2 = after.find('<')
 
-if (before.count('>') != 0):
-    forward_first_position = before.find('>')
-if (before.count('<') != 0):
-    backward_first_position = before.find('<')
+if (f2 < f1):
+    print("IMPOSSIBLE")
+    exit()
+if (b2 > b1):
+    print("IMPOSSIBLE")
+    exit()
+    
 
-if (forward_first_position != None):
-    forward_second_position = after.find('>')
-    if (forward_second_position < forward_first_position):
-        print("IMPOSSIBLE")
-        exit()
-if (backward_first_position != None):
-    backward_second_position = after.find('<')
-    if (backward_second_position > backward_first_position):
-        print("IMPOSSIBLE")
-        exit()
-        
-
-if ((forward_first_position != None) and (backward_first_position != None)):
-    if ((forward_first_position < backward_first_position) and (forward_second_position > backward_second_position)):
+if ((f1 != -1) and (b1 != -1)):
+    if ((f1 < b1) and (f2 > b2)):
         print("IMPOSSIBLE")
         exit()
 

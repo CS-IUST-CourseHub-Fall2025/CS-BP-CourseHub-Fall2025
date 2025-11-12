@@ -1,6 +1,9 @@
-from math import ceil, floor
+n = int(input())
 
-n = float(input())
-x = n / 2
-total = (floor(x)+1)*(ceil(x)+1)
-print(total)
+horizontal_cuts = n // 2
+
+vertical_cuts = n - horizontal_cuts
+
+max_pieces = (horizontal_cuts + 1) * (vertical_cuts + 1)
+
+print(max_pieces)

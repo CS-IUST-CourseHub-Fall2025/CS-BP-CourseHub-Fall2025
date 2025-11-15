@@ -116,7 +116,7 @@ Output:
 yes
 
 Input:
-xX
+xXx
 Output:
 yes
 

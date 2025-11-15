@@ -14,7 +14,7 @@
 MyPass123
 ## خروجی
 
-طول مناسب: True
-حرف بزرگ: True
-عدد: True
+طول مناسب: True/n
+حرف بزرگ: True/n
+عدد: True/n
 کاراکتر ویژه: False

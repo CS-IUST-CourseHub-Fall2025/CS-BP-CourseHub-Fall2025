@@ -1,5 +1,6 @@
-nums = input()
-p =int(input())
+nums = input().split()
+nums = list(map(int, nums))
+p = int(input())
 
 total_sum = sum(nums)
 target = total_sum % p

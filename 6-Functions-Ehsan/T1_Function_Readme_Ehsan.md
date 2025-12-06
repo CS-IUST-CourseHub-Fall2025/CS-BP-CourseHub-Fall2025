@@ -1,0 +1,3 @@
+### منبع الهام :
+> https://www.codewars.com/kata/53ea07c9247bc3fcaa00084d
+

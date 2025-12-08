@@ -1,11 +1,5 @@
 #did you know that dp problems are really nice for our bp students? bet you didn't know
 def max_gold(caves, n, memo=None):
-    """
-    تابع بازگشتی برای محاسبه بیشترین مقدار طلا
-    caves: لیست مقادیر طلا در هر غار
-    n: ایندکس فعلی غار
-    memo: دیکشنری برای ذخیره‌سازی نتایج (memoization)
-    """
     if memo is None:
         memo = {}
     
@@ -26,6 +20,5 @@ def max_gold(caves, n, memo=None):
 n = int(input())
 caves = list(map(int, input().split()))
 
-# محاسبه و چاپ نتیجه
 result = max_gold(caves, n - 1)
 print(result)

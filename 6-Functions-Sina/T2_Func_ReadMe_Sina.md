@@ -1,1 +1,0 @@
-https://www.codewars.com/kata/simple-fun-number-334-two-beggars-and-gold/

@@ -49,7 +49,7 @@ Our curriculum was designed to bridge the gap between logical thinking and Pytho
 |  [**Docs**](./Docs) | Clean code guides and TA onboarding manuals. | [Browse ↗️](./Docs) |
 
 ---
-## 🛠 Built With
+##  Built With
 
 | Tool | Purpose |
 | :--- | :--- |

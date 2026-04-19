@@ -1,0 +1,30 @@
+[
+    {
+        "username": "Soroush_MS",
+        "score": 2500,
+        "win": 10,
+        "lose": 2,
+        "timeplay": "15:30"
+    },
+    {
+        "username": "Negar_R",
+        "score": 1800,
+        "win": 7,
+        "lose": 5,
+        "timeplay": "12:45"
+    },
+    {
+        "username": "AmirParsa",
+        "score": 2100,
+        "win": 8,
+        "lose": 3,
+        "timeplay": "14:10"
+    },
+    {
+        "username": "Alireza_S",
+        "score": 900,
+        "win": 3,
+        "lose": 8,
+        "timeplay": "08:20"
+    }
+]

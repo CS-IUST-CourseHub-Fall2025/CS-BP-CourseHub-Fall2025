@@ -63,4 +63,5 @@ Our curriculum was designed to bridge the gap between logical thinking and Pytho
 
 ##  Support
 Although the course has ended, for academic inquiries, you can reach out via 
-[![Telegram](https://img.shields.io/badge/Telegram-Contact%20Leader-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/negar636R)
+[![Telegram](https://img.shields.io/badge/Telegram-Tasks%20Leader-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/negar636R)
+[![Telegram](https://img.shields.io/badge/Telegram-Teaching%20Leader-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Amirparsatech)
